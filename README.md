@@ -20,11 +20,11 @@ Code for the paper [Path-Level Network Transformation for Efficient Architecture
 
 |           Model          | Params | Test error (%) | 
 | ----------------------- | ------------- | ----- |
-| [TreeCell-A with DenseNet (N=16, k=48, G=2)](TODO) |  13.1M | 3.35 |
-| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2)](TODO) | 5.7M | 3.14 |
-| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2) + DropPath (600 epochs)](TODO) | 5.7M | 2.99 |
-| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2) + DropPath + Cutout (600 epochs)](TODO) | 5.7M | 2.49 |
-| [TreeCell-A with PyramidNet (N=18, alpha=150, G=2) + DropPath + Cutout (600 epochs)](TODO) | 14.3M | 2.30 |
+| [TreeCell-A with DenseNet (N=16, k=48, G=2)](https://drive.google.com/file/d/19OzTjozcJlbP4SZJXPiuQfZgklcs7nCX/view?usp=sharing) |  13.1M | 3.35 |
+| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2)](https://drive.google.com/open?id=1TgBI5y_j3YjTemqCalOPn3dA7CChZ1bn) | 5.7M | 3.14 |
+| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2) + DropPath (600 epochs)](https://drive.google.com/open?id=1AIwRxNrpX9N2GcsB6PXVfKgYaQnxKDF5) | 5.7M | 2.99 |
+| [TreeCell-A with PyramidNet (N=18, alpha=84, G=2) + DropPath + Cutout (600 epochs)](https://drive.google.com/open?id=1BFcB9iaCWX8QgmhbGwqc3ZRZ9d61CJpo) | 5.7M | 2.49 |
+| [TreeCell-A with PyramidNet (N=18, alpha=150, G=2) + DropPath + Cutout (600 epochs)](https://drive.google.com/open?id=1WbI4fE-m7f2leLR8nJMC1Cby4fWHFRUa) | 14.3M | 2.30 |
 
 For checking these networks, please download the corresponding model files and run the following command under the folder of **code/CIFAR**:
 ```bash
@@ -45,7 +45,7 @@ test_loss: 0.092100	 test_acc: 97.700000
 
 |           Model          | Multi-Add | Top-1 error (%) | 
 | ----------------------- | ------------- | ----- |
-| [TreeCell-B with CondenseNet (G1=4, G3=8)](TODO)| 594M | 25.4 | 
+| [TreeCell-B with CondenseNet (G1=4, G3=8)](https://drive.google.com/open?id=1BD3VdUzStaXiipA8oXM3SPWBUnuPtfjk)| 594M | 25.4 | 
 
 Please refer to the file **code/ImageNet/scripts.sh**.
 

@@ -1,10 +1,6 @@
 # Path-Level Network Transformation for Efficient Architecture Search
 
-Code for the paper [Path-Level Network Transformation for Efficient Architecture Search](TODO) in ICML 2018. 
-
-## Reference
-```bash
-```
+Code for the paper [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639) in ICML 2018. 
 
 ## Related Projects
 - [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) in AAAI 2018, [Code](https://github.com/han-cai/EAS).
@@ -51,5 +47,5 @@ Please refer to the file **code/ImageNet/scripts.sh**.
 
 
 ## Architecture Search
-For setting up your environment to run architecture search experiments, please refer to my previous repository, [EAS](https://github.com/han-cai/EAS/tree/master/code).
+For setting up your environment to run architecture search experiments, please refer to my previous [repository](https://github.com/han-cai/EAS/tree/master/code).
 

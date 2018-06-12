@@ -2,6 +2,16 @@
 
 Code for the paper [Path-Level Network Transformation for Efficient Architecture Search](https://arxiv.org/abs/1806.02639) in ICML 2018. 
 
+# Reference
+```bash
+@article{cai2018path,
+  title={Path-Level Network Transformation for Efficient Architecture Search},
+  author={Cai, Han and Yang, Jiacheng and Zhang, Weinan and Han, Song and Yu, Yong},
+  journal={arXiv preprint arXiv:1806.02639},
+  year={2018}
+}
+```
+
 ## Related Projects
 - [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) in AAAI 2018, [Code](https://github.com/han-cai/EAS).
 
